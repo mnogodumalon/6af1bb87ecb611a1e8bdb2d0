@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "en": {
+      "Alle Antworten ansehen": "View all responses",
+      "Alle Umfragen sind abgeschlossen.": "All polls are closed.",
+      "Alles abgeschlossen": "All closed",
+      "Alles entschieden": "All decided",
+      "Antworten laufen ein": "Responses coming in",
+      "Erste Umfrage anlegen": "Create first poll",
+      "Final festlegen & schließen": "Set final & close",
+      "Ja": "Yes",
+      "Lege deine erste Umfrage an und teile den Link.": "Create your first poll and share the link.",
+      "Link kopieren": "Copy link",
+      "Link kopiert": "Link copied",
+      "Meiste Ja": "Most yes",
+      "Neue Umfrage": "New poll",
+      "Neueste Antworten": "Latest responses",
+      "Noch keine Antworten — teile den Link deiner Umfrage.": "No responses yet — share your poll link.",
+      "Noch keine Terminvorschläge.": "No date proposals yet.",
+      "Noch keine Umfrage in dieser Ansicht.": "No polls in this view yet.",
+      "Offene Umfragen": "Open polls",
+      "Ohne finalen Termin": "No final date",
+      "QR-Code öffnen": "Open QR code",
+      "Termin festlegen & schließen": "Set date & close",
+      "Vielleicht": "Maybe",
+      "{0} — hier laufen noch Antworten ein.": "{0} — responses are still coming in."
+    }
+  },
+  "v": 1
+}

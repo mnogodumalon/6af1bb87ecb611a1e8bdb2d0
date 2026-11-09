@@ -1,0 +1,24 @@
+{
+  "UmfragenDialog.tsx": {
+    "finaler_termin": "Welcher Termin gilt?",
+    "titel": "z. B. Teamessen im Mai",
+    "beschreibung": "Worum geht es?",
+    "ort": "z. B. Büro Berlin"
+  },
+  "TerminvorschlaegeDialog.tsx": {
+    "umfrage": "Welche Umfrage?",
+    "beginn": "Wann beginnt der Termin?",
+    "ende": "Wann endet der Termin?"
+  },
+  "AntwortenDialog.tsx": {
+    "umfrage": "Welche Umfrage?",
+    "termin_1": "Welcher erste Termin?",
+    "termin_2": "Welcher zweite Termin?",
+    "termin_3": "Welcher dritte Termin?",
+    "termin_4": "Welcher vierte Termin?",
+    "termin_5": "Welcher fünfte Termin?",
+    "teilnehmer_firstname": "z. B. Anna",
+    "teilnehmer_lastname": "z. B. Müller",
+    "eindeutige_kennung": "z. B. ANT-2026-001"
+  }
+}
